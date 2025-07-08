@@ -1,1 +1,5 @@
+test1.m is employed to learn the optimal state-action function
+
+cluster_Algorithm is used to check the nonblocking property, verify the satisfactory of control requirements, 
+and clollect the nonblocking reachable states.
 
